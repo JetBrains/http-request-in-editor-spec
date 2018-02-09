@@ -1,4 +1,4 @@
-# HTTP Request in Editor Specification
+# HTTP Request in Editor Specification [![official JetBrains project](http://jb.gg/badges/official.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
 The document describes the HTTP Request in Editor format designed to provide a simple way to create, execute and store information about HTTP requests. The specification mostly repeats [RFC 7230](https://tools.ietf.org/html/rfc7230#section-3) with several extensions intended for easier requests composing and editing.
 
 ## Contribution
